@@ -7,7 +7,7 @@
   <li>Web development</li>
   <li>App development</li>
   <li>Software development</li>
-  <li>Design</li>
+  <li>UI Design</li>
 </ul>
 
 <h2>Interest</h2>
