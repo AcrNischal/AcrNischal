@@ -20,7 +20,6 @@
 <p>Overall, I am a driven and passionate computer engineering student with a bright future ahead in the field of web and app development. I am excited about the opportunities that lie ahead and am eager to continue learning and growing as a developer.</p>
 
 <h2>My Certificates</h2>
-<iframe src="https://www.hackerrank.com/certificates/iframe/8c2d5a1146de" title="SQL Certificate"></iframe>
-<iframe src="https://www.hackerrank.com/certificates/iframe/c3f62970bb65" title="Java Certificate"></iframe>
-
+<img src=""/>
+<img src=""/>
 
