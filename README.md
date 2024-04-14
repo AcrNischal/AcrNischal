@@ -21,6 +21,5 @@
 
 <h2>My Certificates</h2>
 <a href="https://www.hackerrank.com/certificates/c3f62970bb65" target="_blank" title="click me to see my java certificate">Java Certificate</a>
-
 <a href="https://www.hackerrank.com/certificates/8c2d5a1146de" target="_blank" title="click me to see my sql certificate">SQL Certificate</a>
-
+<a href="https://www.hackerrank.com/certificates/180e3a64718c" target="_blank" title="click me to see my JavaScript certificate">JavaScript Certificate</a>
