@@ -1,25 +1,31 @@
-<h1>Introduction</h1>
-    <p>Hi, I'm Nishchal Acharya, a computer engineering student with a strong interest in web and app development. I have a solid foundation in computer science principles and programming languages, and I am always looking for opportunities to expand my skillset and take on new challenges.</p>
+---
 
-<h2>Skills</h2>
-<ul>
-  <li>Programming languages</li>
-  <li>Web development</li>
-  <li>App development</li>
-  <li>Software development</li>
-  <li>UI Design</li>
-</ul>
+# Hi, I'm Nishchal Acharya! 👋
 
-<h2>Interest</h2>
-<p>I am particularly interested in the intersection of software development and design, and I enjoy working on projects that involve both technical and creative elements.</p>
+### 🌟 About Me
+I'm a 20-year-old computer engineering student with a passion for web and app development. I've got a solid foundation in computer science principles and programming languages, always looking to level up my skills and take on new challenges.
 
-<h2>Personal Development</h2>
-<p>In my free time, I am an avid learner who enjoys exploring new technologies and staying up-to-date on the latest trends in the field.</p>
+### 🚀 Skills
+- **Programming Languages:** Java, JavaScript, SQL
+- **Web Development:** HTML, CSS, React, Node.js
+- **App Development:** Android, iOS
+- **Software Development:** Agile methodologies, version control (Git)
+- **UI Design:** Figma, Adobe XD
 
-<h2>Conclusion</h2>
-<p>Overall, I am a driven and passionate computer engineering student with a bright future ahead in the field of web and app development. I am excited about the opportunities that lie ahead and am eager to continue learning and growing as a developer.</p>
+### 🎨 Interests
+I'm especially interested in the sweet spot where software development meets design. I love projects that let me flex both my technical muscles and creative flair.
 
-<h2>My Certificates</h2>
-<a href="https://www.hackerrank.com/certificates/c3f62970bb65" target="_blank" title="click me to see my java certificate">Java Certificate</a>
-<a href="https://www.hackerrank.com/certificates/8c2d5a1146de" target="_blank" title="click me to see my sql certificate">SQL Certificate</a>
-<a href="https://www.hackerrank.com/certificates/180e3a64718c" target="_blank" title="click me to see my JavaScript certificate">JavaScript Certificate</a>
+### 📚 Personal Development
+In my free time, I'm an avid learner, always diving into new technologies and keeping up with the latest trends. Whether it's a new framework, a cutting-edge tool, or a fresh design trend, I'm on it like Nobita on his homework (with a little help from Doraemon, of course!).
+
+### 🎓 Certificates
+- **Java Certificate**
+- **SQL Certificate**
+- **JavaScript Certificate**
+
+### 🔮 Conclusion
+I'm a driven and passionate computer engineering student with a bright future in web and app development. I'm excited about the journey ahead and eager to keep learning and growing as a developer.
+
+Feel free to connect with me here on GitHub, or drop me a line if you want to chat about tech, projects, or even if you just need some advice on the best Doraemon episodes! 😄
+
+---
