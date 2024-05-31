@@ -1,5 +1,4 @@
 ---
-
 <h1 align="center" style="color: lightblue;">Hi, I'm Nishchal Acharya! 👋</h1>
 
 <p align="center">
