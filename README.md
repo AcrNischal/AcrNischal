@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/badge/Python-Enthusiast-green?style=for-the-badge" />
 </p>
 
-### 🌟 About Me
+### About Me
 Hey there! I'm Nishchal, a 20-year-old computer engineering student with a passion for web and app development. I've got a solid foundation in computer science principles and programming languages, always looking to level up my skills and take on new challenges. Think of me as a coding Nobita with a thirst for knowledge (minus the constant need for Doraemon's gadgets, haha!).
 
-### 🚀 Skills
+### Skills
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -26,18 +26,18 @@ Hey there! I'm Nishchal, a 20-year-old computer engineering student with a passi
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-### 🎨 Interests
+### Interests
 I'm especially interested in the sweet spot where software development meets design. I love projects that let me flex both my technical muscles and creative flair. Imagine creating something as sleek and functional as Doraemon's Time Machine!
 
-### 📚 Personal Development
+### Personal Development
 In my free time, I'm an avid learner, always diving into new technologies and keeping up with the latest trends. Whether it's a new framework, a cutting-edge tool, or a fresh design trend, I'm on it like Nobita on his homework (with a little help from Doraemon, of course!).
 
-### 🎓 Certificates
+### Certificates
 - <img src="https://img.shields.io/badge/Java-Certificate-orange?style=flat-square" /> **Java Certificate**
 - <img src="https://img.shields.io/badge/SQL-Certificate-blue?style=flat-square" /> **SQL Certificate**
 - <img src="https://img.shields.io/badge/JavaScript-Certificate-yellow?style=flat-square" /> **JavaScript Certificate**
 
-### 🔮 Conclusion
+### Conclusion
 I'm a driven and passionate computer engineering student with a bright future in web and app development. I'm excited about the journey ahead and eager to keep learning and growing as a developer.
 
 Feel free to connect with me here on GitHub, or drop me a line if you want to chat about tech, projects, or even if you just need some advice on the best Doraemon episodes! 😄
