@@ -9,7 +9,7 @@
 </p>
 
 ### About Me
-Hey there! I'm Nishchal, a 20-year-old computer engineering student with a passion for web and app development. I've got a solid foundation in computer science principles and programming languages, always looking to level up my skills and take on new challenges. Think of me as a coding Nobita with a thirst for knowledge (minus the constant need for Doraemon's gadgets, haha!).
+What's up? I'm Nishchal, a 20-year-old computer engineering major who enjoys web and app development. My knowledge base in computer science and various programming languages is intact, and I constantly seek to upgrade my skills. I like to phrase it as a coding Nobita who is curious about everything (without the need of Doraemon’s tools, LOL!).
 
 ### Skills
 <p>
@@ -27,10 +27,10 @@ Hey there! I'm Nishchal, a 20-year-old computer engineering student with a passi
 </p>
 
 ### Interests
-I'm especially interested in the sweet spot where software development meets design. I love projects that let me flex both my technical muscles and creative flair. Imagine creating something as sleek and functional as Doraemon's Time Machine!
+I find the intersection between software development and design particularly interesting. I fully enjoy projects that appeal to my technical and creative skills at the same time. It is like building something elegant and useful like a Time Machine from the Doraemon comic series!
 
 ### Personal Development
-In my free time, I'm an avid learner, always diving into new technologies and keeping up with the latest trends. Whether it's a new framework, a cutting-edge tool, or a fresh design trend, I'm on it like Nobita on his homework (with a little help from Doraemon, of course!).
+I would consider myself an enthusiastic learner in my leisure time, especially in regard to new technologies or happenings in the world. I am always on the lookout for new frameworks, tools, and design trends. I’m like Nobita meeting his homework deadlines, thanks to assistance from Doraemon.
 
 ### Certificates
 - <img src="https://img.shields.io/badge/Java-Certificate-orange?style=flat-square" /> **Java Certificate**
@@ -51,8 +51,8 @@ In my free time, I'm an avid learner, always diving into new technologies and ke
     </a>
 
 ### Conclusion
-I'm a driven and passionate computer engineering student with a bright future in web and app development. I'm excited about the journey ahead and eager to keep learning and growing as a developer.
+As a motivated and enthusiastic student majoring in computer engineering, I have a promising career ahead in web and application development. I look forward to the journey ahead of me and am ready to learn and grow as a developer.
 
-Feel free to connect with me here on GitHub, or drop me a line if you want to chat about tech, projects, or even if you just need some advice on the best Doraemon episodes! 😄
+You can reach out to me on GitHub or send me a message if you want to talk about technology, projects, or if you need suggestions for the best Doraemon episodes. 😄
 
 ---
