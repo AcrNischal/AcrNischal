@@ -10,10 +10,11 @@
 
 
 <p align="center">
-  <div align="center" style="display:inline-block; padding: 12px 24px; border-radius: 12px; background: linear-gradient(135deg, #1FA34A, #F15929); box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);">
-    <img src="https://komarev.com/ghpvc/?username=AcrNischal&label=🔥%20Profile%20Views&color=ffffff&style=flat-square" alt="AcrNischal" />
-  </div>
+  🟩&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AcrNischal&label=🔥%20Profile%20Views&color=1FA34A&style=flat-square" alt="AcrNischal" />
+  &nbsp;&nbsp;🟧
 </p>
+
 
 
 ---
