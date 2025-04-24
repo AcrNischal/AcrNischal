@@ -10,10 +10,9 @@
 
 
 <p align="center">
-  🟩&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=AcrNischal&label=🔥%20Profile%20Views&color=1FA34A&style=flat-square" alt="AcrNischal" />
-  &nbsp;&nbsp;🟧
 </p>
+
 
 
 
