@@ -7,6 +7,15 @@
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Enthusiast-green?style=for-the-badge" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F700FF&width=435&lines=Hi+there!+I'm+AcrNischal;Welcome+to+my+GitHub+profile!" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AcrNischal&label=Profile%20views&color=0e75b6&style=flat" alt="AcrNischal" />
+</p>
+
+---
 
 ### About Me
 What's up? I'm Nishchal, a 20-year-old computer engineering major who enjoys web and app development. My knowledge base in computer science and various programming languages is intact, and I constantly seek to upgrade my skills. I like to phrase it as a coding Nobita who is curious about everything (without the need of Doraemon’s tools, LOL!).
