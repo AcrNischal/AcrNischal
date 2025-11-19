@@ -42,10 +42,9 @@ What's up? I'm Nishchal, a 20-year-old computer engineering major who enjoys web
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcrNischal&layout=compact&theme=default&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AcrNischal&theme=default&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcrNischal&layout=compact&theme=light&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AcrNischal&theme=light&hide_border=true" />
 </div>
-
 
 
 ### Interests
