@@ -39,6 +39,16 @@ What's up? I'm Nishchal, a 20-year-old computer engineering major who enjoys web
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
+### 📊 GitHub Stats
+
+![Nishchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AcrNischal&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AcrNischal&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AcrNischal&theme=radical&hide_border=true)
+
+
+
 ### Interests
 I find the intersection between software development and design particularly interesting. I fully enjoy projects that appeal to my technical and creative skills at the same time. It is like building something elegant and useful like a Time Machine from the Doraemon comic series!
 
