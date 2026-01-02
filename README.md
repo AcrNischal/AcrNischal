@@ -22,7 +22,7 @@
 ---
 
 ### About Me
-What's up? I'm Nishchal, a 20-year-old computer engineering major who enjoys web and app development. My knowledge base in computer science and various programming languages is intact, and I constantly seek to upgrade my skills. I like to phrase it as a coding Nobita who is curious about everything (without the need of Doraemon’s tools, LOL!).
+Hello, I’m Nishchal, a computer engineering student who enjoys building web and mobile applications. I have a good understanding of computer science fundamentals and programming, and I’m always eager to learn new things and improve myself as a developer.
 
 ### Skills
 <p>
@@ -48,10 +48,10 @@ What's up? I'm Nishchal, a 20-year-old computer engineering major who enjoys web
 
 
 ### Interests
-I find the intersection between software development and design particularly interesting. I fully enjoy projects that appeal to my technical and creative skills at the same time. It is like building something elegant and useful like a Time Machine from the Doraemon comic series!
+I have a strong interest in the intersection of software development and design. I enjoy working on projects that require both technical expertise and creative thinking to deliver well-structured and user-friendly solutions.
 
 ### Personal Development
-I would consider myself an enthusiastic learner in my leisure time, especially in regard to new technologies or happenings in the world. I am always on the lookout for new frameworks, tools, and design trends. I’m like Nobita meeting his homework deadlines, thanks to assistance from Doraemon.
+I love learning in my free time, especially about new technologies and the latest trends. I’m always curious to explore new frameworks, tools, and design ideas that help me grow as a developer.
 
 ### Certificates
 - <img src="https://img.shields.io/badge/Java-Certificate-orange?style=flat-square" /> **Java Certificate**
@@ -72,8 +72,8 @@ I would consider myself an enthusiastic learner in my leisure time, especially i
     </a>
 
 ### Conclusion
-As a motivated and enthusiastic student majoring in computer engineering, I have a promising career ahead in web and application development. I look forward to the journey ahead of me and am ready to learn and grow as a developer.
+As a motivated and enthusiastic computer engineering student, I am excited about building a career in web and app development. I look forward to learning, growing, and taking on new challenges as a developer.
 
-You can reach out to me on GitHub or send me a message if you want to talk about technology, projects, or if you need suggestions for the best Doraemon episodes. 😄
+Feel free to reach out on GitHub or send me a message if you want to talk about technology, projects, or share ideas.😄
 
 ---
